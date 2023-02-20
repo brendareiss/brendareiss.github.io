@@ -1,2 +1,2 @@
 # portfolio
-Portfólio de projetos.
+Portfólio de projetos. :)
