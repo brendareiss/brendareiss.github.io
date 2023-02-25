@@ -1,3 +1,35 @@
 .meuNome {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.descricao {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #ece4b7;
+}
+
+.resido {
+    font-style: oblique;
+}
+
+.trafego {
+    font-size: 20px;
+}
+
+.conteudo {
+    font-size: 18px;
+}
+
+.marketing{
+    font-size: 16px;
+}
+
+.agile {
+    font-size: 14px;
+}
+
+.tech {
+    font-size: 12px;
+}
