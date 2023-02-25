@@ -4,6 +4,8 @@
 
 .descricao {
     font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+    padding: 20px;
 }
 
 body {
@@ -41,4 +43,8 @@ h1 {
 img {
     padding: 5px;
     background-color: black;
+}
+
+li {
+    padding-bottom: 15px;
 }
