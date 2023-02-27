@@ -1,0 +1,54 @@
+.meuNome {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.descricao {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+    padding: 20px;
+}
+
+body {
+    background-color: #ece4b7;
+}
+
+.resido {
+    font-style: oblique;
+}
+
+.trafego {
+    font-size: 20px;
+}
+
+.conteudo {
+    font-size: 18px;
+}
+
+.marketing{
+    font-size: 16px;
+}
+
+.agile {
+    font-size: 14px;
+}
+
+.tech {
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    padding: 5px;
+    background-color: black;
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
+}
